@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+.main{
+    background-image: linear-gradient( to right, #EFE1D1,#A78295);
+}
+.container-1{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.greet{
+    font-size:2.5rem;
+    color: #331D2C; 
+    text-align: center; 
+    letter-spacing: 0.1rem;
+    font-family:serif;
+    line-height: 3rem;
+    font-style: italic;
+    font-weight: bolder;
+}
+.container-2{
+    
+    font-family: sans-serif;
+    font-weight:lighter;
+    color:black;
+    font-size: 1.6rem;
+    padding: 2.5rem 2.5rem ;
+    text-align: left;
+}
+.p1{
+    margin-top: 0;
+    text-align: left;  
+    font-weight: lighter;  
+}
+.POR{
+     
+    background-image: url(bswlogo.png),url(background-1.png);
+    background-size: 30rem 30rem, cover ;
+    background-position: 50% 50%,center;
+    background-repeat:no-repeat ;
+    padding: 8vh 8vh; 
+}    
+
+
+.head{
+    text-align: center; font-family: serif ; font-style: italic; font-size:3rem;
+    padding-bottom: 50px;
+    
+}
+.text{
+    font-size:1.7rem;
+    font-family: 'Titillium Web', sans-serif;
+    padding-top : 1rem ;
+    padding-bottom: 1rem;
+    font-weight: 1000;
+}
+
+
+.hobbies{
+    background-image: url(Hobbies.png);
+    background-size: cover;
+    padding:8vh 8vh;
+}
+
+
+.py-3{
+    background-color:azure;
+    font-size: 1.5rem;
+    
+}
+
+
