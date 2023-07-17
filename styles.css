@@ -48,6 +48,7 @@
 .head{
     text-align: center; font-family: serif ; font-style: italic; font-size:3rem;
     padding-bottom: 50px;
+    font-weight:bolder;
     
 }
 .text{
