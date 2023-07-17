@@ -48,7 +48,7 @@
 .head{
     text-align: center; font-family: serif ; font-style: italic; font-size:3rem;
     padding-bottom: 50px;
-    font-weight:bolder;
+    font-weight: bolder;
     
 }
 .text{
@@ -56,13 +56,14 @@
     font-family: 'Titillium Web', sans-serif;
     padding-top : 1rem ;
     padding-bottom: 1rem;
-    font-weight: 1000;
+    font-weight:600;
 }
 
 
 .hobbies{
     background-image: url(Hobbies.png);
     background-size: cover;
+    background-repeat: no-repeat;
     padding:8vh 8vh;
 }
 
