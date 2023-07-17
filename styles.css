@@ -71,5 +71,12 @@
     font-size: 1.5rem;
     
 }
+@media(max-width:900px){
+    .hobbies{
+        background-image: url(hobbies2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
 
 
